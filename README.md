@@ -1,4 +1,4 @@
-Designed a Game for recording score between two players and decide a winner based on who score more.
+Designed a Game for recording score between two players and decide a winner based on who score more runs.
 # Features Added
  Added score card for dispalying each player scores.
  
