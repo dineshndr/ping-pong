@@ -17,3 +17,12 @@ CSS3
 
 Vanilla JavaScript (ES6)
 
+
+▶️ How to Run
+Steps:
+Open index.html in any modern browser (e.g., Chrome, Firefox).
+
+Use keyboard controls to play the game.
+
+🕹️ Controls
+Move paddles using mouse or keyboard (depending on implementation in app.js).
